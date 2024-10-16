@@ -1,1 +1,1 @@
-This is web project
+This is web project learning new things
